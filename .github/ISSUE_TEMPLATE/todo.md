@@ -2,7 +2,7 @@
 name: TODO
 about: 해야할 일을 정리해요!
 title: "[TODO]"
-labels: ''
+labels: ":white_check_mark: TODO"
 assignees: ''
 
 ---
