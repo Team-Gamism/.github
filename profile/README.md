@@ -4,6 +4,8 @@
 - **변정현** : [Jeonghyeonbyeon](https://github.com/Jeonghyeonbyeon)
 - **장경훈** : [wkdrudgnsdla](https://github.com/wkdrudgnsdla)
 - **이시우** : [leesiuuuu](https://github.com/leesiuuuu)
+- **정예빈** : [nelu572](https://github.com/nelu572)
+- **조현성** : [jo-hyun-sung1469](https://github.com/jo-hyun-sung1469)
 
 ## 🌐 Server Developer
 - **전민혁** : [hyuli0520](https://github.com/hyuli0520)
