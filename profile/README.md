@@ -11,3 +11,6 @@
 
 ## 🎨 Legend illustrator
 - **한수인** : [InBackSu](https://github.com/InBackSu)
+
+## :package: 3D Modeler
+- **김의현** : [Kuh-122](https://github.com/Kuh-122)
